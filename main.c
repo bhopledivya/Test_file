@@ -15,7 +15,7 @@ main()
   {
    for(int j=0;j<10;j++)
    {
-     printf("%2d",mul[i][j]);
+     printf("%4d",mul[i][j]);
    }
    printf("\n");
  }
